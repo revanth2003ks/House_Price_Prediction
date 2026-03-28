@@ -226,13 +226,4 @@ print('RMSE: ',np.sqrt(mean_squared_error(y_test,y_pred)))
 * Compared model performance to identify the better-performing algorithm.
 * Observed that the Decision Tree model captured complex patterns better, while Linear Regression provided a simple and interpretable baseline.
 
----
 
-
-
----
-
-## Author
-
-**Revanth KS**
-Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
