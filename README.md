@@ -164,7 +164,7 @@ Feature scaling was applied to normalize the numerical features so that all vari
 
 * Used `StandardScaler` for scaling.
 
-```
+```python
 from sklearn.preprocessing import StandardScaler
 scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
