@@ -224,6 +224,5 @@ print('RMSE: ',np.sqrt(mean_squared_error(y_test,y_pred)))
 * Reduced the impact of missing values, duplicates, and outliers.
 * Built two regression models for house price prediction.
 * Compared model performance to identify the better-performing algorithm.
-* Observed that the Decision Tree model captured complex patterns better, while Linear Regression provided a simple and interpretable baseline.
 
 
